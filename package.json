@@ -52,6 +52,7 @@
 		"Alexey Filippov <socket.someone@gmail.com>"
 	],
 	"dependencies": {
+		"discord-hybrid-sharding": "github:meister03/discord-hybrid-sharding",
 		"path-to-regexp": "6.2.1"
 	},
 	"devDependencies": {
